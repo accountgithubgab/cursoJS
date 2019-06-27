@@ -1,4 +1,4 @@
-axios.get('https://api.github.com/users/vinidamian')
+axios.get('https://api.github.com/users/accountgithubgab')
     .then(function (response) {
         console.log(response);
     })

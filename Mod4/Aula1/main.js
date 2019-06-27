@@ -1,6 +1,6 @@
 var xhr = new XMLHttpRequest();
 
-xhr.open('GET', 'https://api.github.com/users/vinidamian');
+xhr.open('GET', 'https://api.github.com/users/accountgithubgab');
 xhr.send(null);
 
 xhr.onreadystatechange = function() {
